@@ -17,6 +17,7 @@ public class PruebaIS1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("prueba 1");
+         System.out.println("prueba 2");
     }
     
 }
